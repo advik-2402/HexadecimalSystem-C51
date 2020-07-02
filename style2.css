@@ -1,0 +1,29 @@
+.socialMedia{
+    border: solid;
+    display: flex;
+}
+
+h1{
+    color: darkblue;
+}
+
+h3{
+    color: #ffff00;
+}
+
+h4{
+    color: darkred;
+}
+
+.contactMe{
+    border: solid;
+}
+
+body{
+    background-color: #238022;
+}
+
+.myInfo{
+    border: solid;
+    border-color: white;
+}

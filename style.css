@@ -1,0 +1,24 @@
+h1 {
+    color: brown;
+}
+
+.header{
+    border: solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.games{
+    display: flex;
+    justify-content: space-between;
+}
+
+.games2{
+    display: flex;
+    justify-content: space-between;
+}
+
+h2,p{
+    color: blue;
+}
+
